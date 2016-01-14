@@ -6,42 +6,42 @@
         jumboMode="false"
         revision="23.0.2"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_f5d8cb2b9532c67346497c2d61727acd4e0c960e.jar" />
+        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_f5d8cb2b9532c67346497c2d61727acd4e0c960e.jar" />
     </item>
     <item
         jar="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_f88516e280d7af3e26e30856d8919c2f4875dfce.jar" />
+        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_f88516e280d7af3e26e30856d8919c2f4875dfce.jar" />
     </item>
     <item
         jar="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_4e53a2fff236cb327ba3f4b0dad4e633bfd3806a.jar" />
+        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_4e53a2fff236cb327ba3f4b0dad4e633bfd3806a.jar" />
     </item>
     <item
         jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_5d5d977b570256acb6d3322deaa3c92029c5753a.jar" />
+        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_5d5d977b570256acb6d3322deaa3c92029c5753a.jar" />
     </item>
     <item
         jar="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_019e21d28e5617ff321e2133a8402f1a5d9e30e1.jar" />
+        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_019e21d28e5617ff321e2133a8402f1a5d9e30e1.jar" />
     </item>
     <item
         jar="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_8fc4f2265e46e2f56759a7436c17c0e2a3f6077b.jar" />
+        <dex dex="C:\Users\umnik\AndroidStudioProjects\Schedule\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_8fc4f2265e46e2f56759a7436c17c0e2a3f6077b.jar" />
     </item>
 
 </items>

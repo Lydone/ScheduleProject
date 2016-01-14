@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable-v23\\abc_control_background_material.xml",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]
