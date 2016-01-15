@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                     editText.setText(null);
                     textView.setText(text);
                     clipboard.setText(textView.getText());
+                    //some changes for test
 
                 }
                 return false;
