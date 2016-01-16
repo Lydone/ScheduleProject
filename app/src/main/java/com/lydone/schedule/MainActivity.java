@@ -2,6 +2,7 @@ package com.lydone.schedule;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -17,27 +18,36 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.EventListener;
 
 public class MainActivity extends AppCompatActivity {
-    String text = "";
+    EditText editText;
+    TextView textView;
+    String path;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        final EditText editText = (EditText) findViewById(R.id.editText);
-        final TextView textView = (TextView) findViewById(R.id.textView);
-        textView.setText(this.text);
-        Log.e("TAG", this.text);
+        editText = (EditText) findViewById(R.id.editText);
+        textView = (TextView) findViewById(R.id.textView);
 
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         final ClipboardManager clipboard = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
         setSupportActionBar(toolbar);
 
-         editText.setOnKeyListener(new View.OnKeyListener() {
+        editText.setOnKeyListener(new View.OnKeyListener() {
             // getting text from keyboard
             @Override
 
@@ -47,38 +57,58 @@ public class MainActivity extends AppCompatActivity {
                     String bus = editText.getText().toString();
                     Calendar calendar = Calendar.getInstance();
                     String date = calendar.getTime().toString();
-                   //textView.append(bus + ";" + ' ' + date + '\n');
-                    text += (bus + ";" + ' ' + date + '\n');
+                    textView.append(bus + ";" + ' ' + date + '\n');
                     editText.setText(null);
-                    textView.setText(text);
                     clipboard.setText(textView.getText());
-                    //some changes for test
-
+                    Log.d("TAG", textView.getText().toString());
+                    writeFileSD(textView.getText().toString());
                 }
                 return false;
             }
-         });
+        });
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Текст скопирован в буфер обмена", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Текст сохраняется автоматически в буфер и в: " + path, Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
-                clipboard.setText(textView.getText());
             }
         });
     }
 
-    protected void onRestoreInstanceState(Bundle savedInstanceState) {
-        super.onRestoreInstanceState(savedInstanceState);
-        text = savedInstanceState.getString("text");
+
+    private void writeFile(String string) {
+        try {
+            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(openFileOutput("Schedule.txt", MODE_WORLD_WRITEABLE)));
+            bw.write(string);
+            bw.close();
+            Log.d("TAG", "Файл записан");
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
-    protected void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState);
-        outState.putString("text", text);
+    void writeFileSD(String string) {
+        if (!Environment.getExternalStorageDirectory().equals(Environment.MEDIA_MOUNTED)); {
+            //Log.d("TAG", "SD Карта не найдена" + Environment.getExternalStorageState());
+        }
+        File sdPath = Environment.getExternalStorageDirectory();
+        sdPath = new File(sdPath.getAbsolutePath() + "/" + "Schedule");
+        sdPath.mkdirs();
+        File sdFile = new File(sdPath, "Schedule.txt");
+
+        try {
+            BufferedWriter bw = new BufferedWriter(new FileWriter(sdFile, true));
+            bw.write(string);
+            bw.close();
+            path = sdFile.getAbsolutePath();
+            Log.d("TAG", "Файл записан" + sdFile.getAbsolutePath());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
-
-
 }

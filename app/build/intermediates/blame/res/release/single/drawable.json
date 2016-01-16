@@ -16,16 +16,36 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\src\\main\\res\\drawable\\ic_shedule.png"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_black_24dp.png",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\src\\main\\res\\drawable\\ic_content_copy_black_24dp.png"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_white_24dp.png",
@@ -36,6 +56,10 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_white_24dp.png",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\src\\main\\res\\drawable\\ic_content_copy_white_24dp.png"
+    },
+    {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -44,8 +68,16 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_black_24dp.png",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\src\\main\\res\\drawable\\ic_content_copy_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
@@ -56,8 +88,16 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_white_24dp.png",
@@ -72,12 +112,28 @@
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_black_48dp.png",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\src\\main\\res\\drawable\\ic_content_copy_black_48dp.png"
     },
     {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
@@ -88,12 +144,24 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
@@ -128,6 +196,10 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
@@ -156,12 +228,36 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_shedule.png",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\src\\main\\res\\drawable\\ic_shedule.png"
+    },
+    {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_black_48dp.png",
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\src\\main\\res\\drawable\\ic_content_copy_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
         "merged": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_content_copy_black_24dp.png",
@@ -170,6 +266,10 @@
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
@@ -188,6 +288,14 @@
         "source": "C:\\Android\\AndroidStudoiProjects\\Schedule2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -200,8 +308,16 @@
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
@@ -222,6 +338,10 @@
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",

@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
         "source": "C:\\Users\\umnik\\AndroidStudioProjects\\Schedule\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "C:\\Android\\AndroidStudoiProjects\\ScheduleProject\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]
