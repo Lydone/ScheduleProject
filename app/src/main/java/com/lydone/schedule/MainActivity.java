@@ -33,7 +33,7 @@ import java.util.EventListener;
 public class MainActivity extends AppCompatActivity {
     EditText editText;
     TextView textView;
-    String path;
+    String path = "Not Copied";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -71,8 +71,14 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Текст сохраняется автоматически в буфер и в: " + path, Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                if (path.equals("Not Copied")) {
+                    Snackbar.make(view, "Вводимые данные сохраняются автоматически", Snackbar.LENGTH_LONG)
+                            .setAction("Action", null).show();
+                }
+                else {
+                    Snackbar.make(view, "Текст сохраняется автоматически в буфер и в: " + path, Snackbar.LENGTH_LONG)
+                            .setAction("Action", null).show();
+                }
             }
         });
     }
